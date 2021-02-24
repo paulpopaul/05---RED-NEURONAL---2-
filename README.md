@@ -1,4 +1,4 @@
-# 05-RED-NEURONAL-2-
+# 05-RED-NEURONAL-2
 
 ```python
 import numpy as np
